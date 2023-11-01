@@ -127,8 +127,8 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-AWS_ACCESS_KEY_ID = "AKIA3F3X3BA3HO2O6I7N"
-AWS_SECRET_ACCESS_KEY = "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"
+AWS_ACCESS_KEY_ID = "vaausxbakbxoayuoxaybsah"
+AWS_SECRET_ACCESS_KEY = "svjahgvxagvxagvxjagvxiav"
 
 AWS_STORAGE_BUCKET_NAME = "watchnextdjango"
 
